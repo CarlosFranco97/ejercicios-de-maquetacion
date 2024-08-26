@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 140px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+aside {
+    display: inline-block;
+    height: 620px;
+    width: 200px;
+    border: 1px solid black;
+    vertical-align: top;
+}
+
+div {
+    display: inline-block;
+    width: 1200px;
+    vertical-align: top;
+}
+
+main {
+    width: 1350px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+footer {
+    height: 120px;
+    border: 1px solid black;
+    width: 1350px;
+}
